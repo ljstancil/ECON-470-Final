@@ -9,7 +9,7 @@ et us define a market with six locations denoted $\{ \lambda_1, \dots \lambda_6\
 ### **Banks**
 #### *Attributes*
 #### **Location**
-Each firm is assumed to have an office in $\lambda_1, lambda_2, lambda_3$, however it is randomly decided how many/which of the remaining locations they operate in.
+Each firm is assumed to have an office in $\lambda_1, \lambda_2, \lambda_3$, however it is randomly decided how many/which of the remaining locations they operate in.
 #### **Timeline**
 Each bank offers their interns at the same time, however banks will offer at different times. In this instance, we have two types: early and late (t=0, t=1). It will be randomly decided at the beginning the types of each bank. This is privately held information.
 #### **Sectors**
