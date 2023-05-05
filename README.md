@@ -1,9 +1,9 @@
-# ECON 470 Final
+# ECON 470 Research Project
 ## Introduction
 This code was created to simulate the job market for interns and investment banks. Similar to the market for Resident Physicians before the advent of the NRMP, the recruiting timeline keeps moving up. Is this really efficient for everyone? We aim to study that question and look at the effects of a clearinghouse. 
 ## Market
-L### Market Setup
-et us define a market with six locations denoted $\{ \lambda_1, \dots \lambda_6\}$. Each location has a specific set of sectors that firms will operate in each location. These will be the same for each firm in these sectors. These sectors are A, C, E, F, R, and T, which correspond to Agriculture, Consumer Goods (Technology), Energy, Financial Services, Retail, and Transportation.
+### Market Setup
+Let us define a market with six locations denoted $\{ \lambda_1, \dots \lambda_6\}$. Each location has a specific set of sectors that firms will operate in each location. These will be the same for each firm in these sectors. These sectors are A, C, E, F, R, and T, which correspond to Agriculture, Consumer Goods (Technology), Energy, Financial Services, Retail, and Transportation.
 
 
 ### **Banks**
